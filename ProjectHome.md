@@ -1,0 +1,1 @@
+A project that generates a J2EE project from an existing Oracle DBMS or from an XML description of a DB. It provides a GUI that guides the user to create the needed forms by selecting the appropriate tables from the DB. When finished, the J-enesis generator will create a full CRUD infrastructure, including Hibernate, Struts controller, JSP pages, DTO etc.
